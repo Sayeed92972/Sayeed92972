@@ -21,9 +21,9 @@ I'm Sayeed, a data analyst from Dhaka, Bangladesh. Welcome to my GitHub profile!
 
 Here are some of the projects I'm proud of:
 
-1. [Project 1](Link to Project 1) - Brief description of the project.
-2. [Project 2](Link to Project 2) - Brief description of the project.
-3. [Project 3](Link to Project 3) - Brief description of the project.
+1.
+2. Olympics Query.sql
+3. Project of Covid Vaccination.sql
 
 Feel free to explore my repositories to see more of my work!
 
