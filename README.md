@@ -21,7 +21,7 @@ I'm Sayeed, a data analyst from Dhaka, Bangladesh. Welcome to my GitHub profile!
 
 Here are some of the projects I'm proud of:
 
-1.[Excel Project-1](https://github.com/Sayeed92972/Portfolio-Project/blob/a04065bca32780ad403c7bff999401059de73c3c/Excel%20Project-1.xlsx)
+1.[ Excel Project-1](https://github.com/Sayeed92972/Portfolio-Project/blob/a04065bca32780ad403c7bff999401059de73c3c/Excel%20Project-1.xlsx)
 
 2.[ Olympics Query.sql](https://github.com/Sayeed92972/Portfolio-Project/blob/1c718b784a16ef787554ed8684c433daa443adf9/Project%20of%20Covid%20Vaccination.sql)
 
