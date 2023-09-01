@@ -27,6 +27,8 @@ Here are some of the projects I'm proud of:
 
 3.[ Project of Covid Vaccination.sql](https://github.com/Sayeed92972/Portfolio-Project/blob/1c718b784a16ef787554ed8684c433daa443adf9/Project%20of%20Covid%20Vaccination.sql)
 
+4.[ Python Project-1](https://github.com/Sayeed92972/PythonProject/blob/3e2d79b2771942f977d4e0948726685a6fd4498c/eye_mouse.py)
+
 Feel free to explore my repositories to see more of my work!
 
 ## Get in Touch
