@@ -23,6 +23,7 @@ Here are some of the projects I'm proud of:
 
 1.
 2.[ Olympics Query.sql](https://github.com/Sayeed92972/Portfolio-Project/blob/1c718b784a16ef787554ed8684c433daa443adf9/Project%20of%20Covid%20Vaccination.sql)
+
 3.[ Project of Covid Vaccination.sql](https://github.com/Sayeed92972/Portfolio-Project/blob/1c718b784a16ef787554ed8684c433daa443adf9/Project%20of%20Covid%20Vaccination.sql)
 
 Feel free to explore my repositories to see more of my work!
